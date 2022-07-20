@@ -1,0 +1,11 @@
+1. Initiatate git repository:
+
+go to inside the folder
+git init
+git add .
+git commit -m "first commit"
+git branch
+git remote add origin https://github.com/QuangDai1707/Machine-learning.git 
+git push origin master --force
+
+2. Push code the existing repository:
